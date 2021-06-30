@@ -10,6 +10,16 @@ I'm a Software Architect wokring for [Sybrin Systems](https://corporate.sybrin.c
 
 ![Typescript](https://progress-bar.dev/70/?scale=100&title=Typescript&width=150&color=babaca&suffix=)
 
+## Databases Languages i've used
+
+![MsSQL](https://progress-bar.dev/90/?scale=100&title=MsSQL&width=150&color=babaca&suffix=)
+
+![Oracle](https://progress-bar.dev/60/?scale=100&title=Oracle&width=150&color=babaca&suffix=)
+
+![PostgreSQL](https://progress-bar.dev/80/?scale=100&title=PostgreSQL&width=150&color=babaca&suffix=)
+
+![MySQL](https://progress-bar.dev/70/?scale=100&title=MySQL&width=150&color=babaca&suffix=)
+
 ## Have a look at my github stats
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimahari&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
