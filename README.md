@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Herman Esterhuizen.
 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimahari)]
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimahari)
 
 
 <!--
