@@ -2,6 +2,7 @@
 
 I'm a Software Architect wokring for [Sybrin Systems](https://corporate.sybrin.com/) Working building and Architecting the platform and making sure all the moving parts work perfectly. 
 
+## Have a look at my github stats
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimahari&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
