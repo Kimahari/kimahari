@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Herman Esterhuizen.
 
+I'm a Software Architect wokring for [Sybrin Systems](https://corporate.sybrin.com/) Working building and Architecting the platform and making sure all the moving parts work perfectly. 
+
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimahari&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
