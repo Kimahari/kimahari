@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Herman Esterhuizen</h1>
+<h1 align="center">👋, I'm Herman Esterhuizen</h1>
 
 
 <h3 align="center">A full stack software architect from South Africa. Applying Hermanism to any code base.</h3>
